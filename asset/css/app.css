@@ -1,0 +1,95 @@
+@media (max-width:920px) {
+.mycontarin{
+    border-color: 1px groove #337ab7;
+    margin-top: 20px;
+    height: 172px;
+    line-height: 28px;
+    color: #004a5f;
+    font: -webkit-xxx-large;
+    font-size: larger;
+    border: 1px groove black;
+    border-radius: 5px 5px;
+
+}
+
+.mycontarin{
+    border-color: 1px groove #337ab7;
+    margin-top: 20px;
+    height: 172px;
+    line-height: 28px;
+    color: #004a5f;
+    font: -webkit-xxx-large;
+    font-size: larger;
+    border: 1px groove black;
+    border-radius: 5px 5px;
+
+}
+}
+
+.mycontarin{
+    border-color: 1px groove #337ab7;
+    margin-top: 20px;
+
+    line-height: 28px;
+    color: #004a5f;
+    font: -webkit-xxx-large;
+    font-size: larger;
+    border: 1px groove black;
+    border-radius: 5px 5px;
+
+}
+@media (max-width:1170px) {
+.mycontarin{
+    border-color: 1px groove #337ab7;
+    margin-top: 20px;
+    height: 472px;
+    line-height: 28px;
+    color: #004a5f;
+    font: -webkit-xxx-large;
+    font-size: larger;
+    border: 1px groove black;
+    border-radius: 5px 5px;
+}
+}
+input{
+	border: 2px groove #4cadc9;
+}
+
+.mypanel-default {
+    border-color: #2613b6;
+}
+
+.qodef-woocommerce-product-list-info h1{
+ font-size: 20px;
+}
+
+
+.form_div select{ 
+ background-color: #4cadc9;
+    color: white;
+}
+
+element.style {
+}
+.page-template-default .woocommerce .product>a img, .page-template-full-width .woocommerce .product>a img, .qodef-woocommerce-page .product>a img {
+    display: block;
+    width: 100%;
+    -webkit-backface-visibility: hidden;
+    -ms-transition: -ms-transform .4s ease-out;
+    -webkit-transition: -webkit-transform .4s ease-out;
+    transition: transform .4s ease-out;
+}
+a img, table {
+    border: none;
+}
+img {
+    vertical-align: middle;
+}
+img {
+    border: 0;
+}
+.wp-caption, ul li  img {
+    max-width: 100%;
+    height: 290px;
+}
+
